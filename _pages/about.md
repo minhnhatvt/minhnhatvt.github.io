@@ -1,20 +1,23 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
+I am currently a research scientist in the field of artifical intelligence. I am actively looking for a M.Sc./Ph.D. position in Machine Learning/Computer Vision.
+
+
+<!-- applying machine learning tools and causal
 inference techniques to remote sensing data. I am also an affiliated
 researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
 and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil). -->
 
-I earned my Ph.D in Political Science from the
+<!-- I received my Ph.D in Political Science from the
 [University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
 B.A. in Political Science from [Haverford College](https://www.haverford.edu).
 My academic work has been [published](publications) or is forthcoming in
@@ -27,4 +30,12 @@ focused on civil conflict, it also examines contentious political phenomena
 including terrorism and economic statecraft, and develops new measures of
 institutions in international relations. I have [teaching](teaching) experience
 in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+instructor with [The Carpentries](https://carpentries.org). -->
+
+
+## News
+- **02/2023**: Our paper [Music-Driven Group Choreography](https://openaccess.thecvf.com/content/CVPR2023/papers/Le_Music-Driven_Group_Choreography_CVPR_2023_paper.pdf) was accepted to CVPR 2023!
+- **08/2022**: Our paper [Uncertainty-aware Label Distribution Learning for Facial Expression Recognition](https://openaccess.thecvf.com/content/WACV2023/papers/Le_Uncertainty-Aware_Label_Distribution_Learning_for_Facial_Expression_Recognition_WACV_2023_paper.pdf) was accepted to WACV 2023!
+- **12/2021**: Our paper [Global-Local Attention for Emotion Recognition](https://link.springer.com/article/10.1007/s00521-021-06778-x) was accepted to Neural Computing and Applications!
+- **10/2021**: I received my *B.S. (Hons.) in Computer Science* degree from University of Science, VNU-HCM.
+- **07/2021**:  I successfully defended my thesis with a grade of 10/10.
