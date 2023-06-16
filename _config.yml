@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Nhat Minh Le"
-  avatar           : 
+  avatar           : "profile.png"
   bio              : "AI Researcher at AIOZ"
   location         : "HCMC, Vietnam"
   employer         :
@@ -183,12 +183,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # research:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
