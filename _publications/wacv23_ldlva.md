@@ -9,6 +9,6 @@ paperurl:
 citation: 'Nhat Le*, Khanh Nguyen*, Quang Tran, Erman Tjiputra, Bac Le, Anh Nguyen. Uncertaintyaware Label Distribution Learning for Facial Expression Recognition. In WACV 2023'
 ---
 
-[PDF](http://minhnhatvt.github.io/files/wacv23_ldlva.pdf) | [Code](https://github.com/minhnhatvt/label-distribution-learning-fer-tf)
+[[PDF](http://minhnhatvt.github.io/files/wacv23_ldlva.pdf)] | [[Code](https://github.com/minhnhatvt/label-distribution-learning-fer-tf)]
 
 
