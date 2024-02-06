@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 I am currently a research scientist in the field of Computer Vision & Graphics at AIOZ. My current work mainly focuses on multi-person human motion capture and motion synthesis. I received my B.Sc (Honour) in Computer Science from the University of Science, VNU-HCM. My undergraduate thesis focused on recognizing human emotion under real-world scenarios, resulting in two published papers (1 journal and 1 conference).
+<<<<<<< HEAD
 I am also actively seeking for a M.Sc./Ph.D. position in Machine Learning/Computer Vision.
+=======
+I am also actively seeking an M.Sc./Ph.D. position in Machine Learning/Computer Vision.
+>>>>>>> 8ebd41505b10af94de0bd3fb6b69a3606972cb01
 
 My current research interests include:
 * **Computer Vision**: 3D reconstruction, visual tracking system, human motion capture, human
@@ -41,6 +45,7 @@ instructor with [The Carpentries](https://carpentries.org). -->
 
 
 ## News
+- **10/2023**: Our paper [Controllable Group Choreography using Contrastive Diffusion](https://dl.acm.org/doi/abs/10.1145/3618356) was accepted to SIGGRAPH Asia 2023 (Journal Track, ACM TOG)!
 - **02/2023**: Our paper [Music-Driven Group Choreography](https://openaccess.thecvf.com/content/CVPR2023/papers/Le_Music-Driven_Group_Choreography_CVPR_2023_paper.pdf) was accepted to CVPR 2023!
 - **08/2022**: Our paper [Uncertainty-aware Label Distribution Learning for Facial Expression Recognition](https://openaccess.thecvf.com/content/WACV2023/papers/Le_Uncertainty-Aware_Label_Distribution_Learning_for_Facial_Expression_Recognition_WACV_2023_paper.pdf) was accepted to WACV 2023!
 - **12/2021**: Our paper [Global-Local Attention for Emotion Recognition](https://link.springer.com/article/10.1007/s00521-021-06778-x) was accepted to Neural Computing and Applications!
