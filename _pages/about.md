@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist in the field of Computer Vision & Graphics at AIOZ. My current work mainly focuses on multi-person human motion capture and motion synthesis. I received my B.Sc (Honour) in Computer Science from the University of Science, VNU-HCM. My undergraduate thesis focused on recognizing human emotion under real-world scenarios, resulting in two published papers (1 journal and 1 conference).
-<<<<<<< HEAD
-I am also actively seeking for a M.Sc./Ph.D. position in Machine Learning/Computer Vision.
-=======
-I am also actively seeking an M.Sc./Ph.D. position in Machine Learning/Computer Vision.
->>>>>>> 8ebd41505b10af94de0bd3fb6b69a3606972cb01
+I am currently a research scientist in the field of Computer Vision & Graphics at AIOZ. My current work mainly focuses on multi-person human motion capture and motion synthesis. I received my B.Sc (Honour) in Computer Science from the University of Science, VNU-HCM. My undergraduate thesis focused on recognizing human emotion under real-world scenarios, resulting in two published papers (1 journal and 1 conference). I am also actively seeking for a M.Sc./Ph.D. position in Machine Learning/Computer Vision.
 
 My current research interests include:
 * **Computer Vision**: 3D reconstruction, visual tracking system, human motion capture, human
