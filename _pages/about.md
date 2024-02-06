@@ -41,7 +41,6 @@ instructor with [The Carpentries](https://carpentries.org). -->
 
 
 ## News
-- **10/2023**: Our paper [Controllable Group Choreography using Contrastive Diffusion](https://dl.acm.org/doi/abs/10.1145/3618356) was accepted to SIGGRAPH Asia 2023 (Journal Track, ACM TOG)!
 - **02/2023**: Our paper [Music-Driven Group Choreography](https://openaccess.thecvf.com/content/CVPR2023/papers/Le_Music-Driven_Group_Choreography_CVPR_2023_paper.pdf) was accepted to CVPR 2023!
 - **08/2022**: Our paper [Uncertainty-aware Label Distribution Learning for Facial Expression Recognition](https://openaccess.thecvf.com/content/WACV2023/papers/Le_Uncertainty-Aware_Label_Distribution_Learning_for_Facial_Expression_Recognition_WACV_2023_paper.pdf) was accepted to WACV 2023!
 - **12/2021**: Our paper [Global-Local Attention for Emotion Recognition](https://link.springer.com/article/10.1007/s00521-021-06778-x) was accepted to Neural Computing and Applications!
